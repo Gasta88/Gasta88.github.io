@@ -62,7 +62,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/pk4t7os6q7ffs26xwikcf/FrancescoGastaldello_CV.pdf?rlkey=rkeb9wrgbbqdctp4obheew3aj&st=gtusmmg9&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'data management',
