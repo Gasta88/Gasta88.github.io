@@ -62,7 +62,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.dropbox.com/scl/fi/q5q2y47xt6cvugdqpq8ky/FrancescoGastaldello_CV.pdf?rlkey=lmw7bifnd0ylzbdhmbbe9agd6&st=lv3b0agr&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/7ei32ep4bja0397c2urve/FrancescoGastaldello_CV_short.pdf?rlkey=iru4cglg7kl12n28oap815icw&st=qwqu8ia1&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'data management',
@@ -205,7 +205,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'bumblebee',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
