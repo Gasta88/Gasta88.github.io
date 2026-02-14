@@ -62,7 +62,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.dropbox.com/scl/fi/7ei32ep4bja0397c2urve/FrancescoGastaldello_CV_short.pdf?rlkey=iru4cglg7kl12n28oap815icw&st=qwqu8ia1&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/7ei32ep4bja0397c2urve/FrancescoGastaldello_CV_short.pdf?rlkey=iru4cglg7kl12n28oap815icw&st=8ql02788&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'data management',
